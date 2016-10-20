@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b10a5646-b8b3-42af-8e3e-8714ea176814" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch6.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch7.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch8.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch10.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch12.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch13.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch14.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch9.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/ruby.iml" afterPath="$PROJECT_DIR$/.idea/ruby.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch5.rb" afterPath="$PROJECT_DIR$/ch5.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch8.rb" afterPath="$PROJECT_DIR$/ch8.rb" />
     </list>
     <ignored path="ruby.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -20,12 +23,19 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/ruby@ch6.coverage" NAME="ch6 Coverage Results" MODIFIED="1476992273779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@ch4.coverage" NAME="ch4 Coverage Results" MODIFIED="1476898363975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
+    <SUITE FILE_PATH="coverage/ruby@ch8.coverage" NAME="ch8 Coverage Results" MODIFIED="1477002532664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
+    <SUITE FILE_PATH="coverage/ruby@ch12.coverage" NAME="ch12 Coverage Results" MODIFIED="1477003992122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
+    <SUITE FILE_PATH="coverage/ruby@ch7.coverage" NAME="ch7 Coverage Results" MODIFIED="1476996972824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
+    <SUITE FILE_PATH="coverage/ruby@ch6.coverage" NAME="ch6 Coverage Results" MODIFIED="1476992273779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
+    <SUITE FILE_PATH="coverage/ruby@ch14.coverage" NAME="ch14 Coverage Results" MODIFIED="1477004705323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
+    <SUITE FILE_PATH="coverage/ruby@ch11.coverage" NAME="ch11 Coverage Results" MODIFIED="1477003754132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
+    <SUITE FILE_PATH="coverage/ruby@ch13.coverage" NAME="ch13 Coverage Results" MODIFIED="1477004138826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@ch2.coverage" NAME="ch2 Coverage Results" MODIFIED="1476381746219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@ch1.coverage" NAME="ch1 Coverage Results" MODIFIED="1476381072533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
     <SUITE FILE_PATH="coverage/ruby@ch5.coverage" NAME="ch5 Coverage Results" MODIFIED="1476987965126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
-    <SUITE FILE_PATH="coverage/ruby@ch7.coverage" NAME="ch7 Coverage Results" MODIFIED="1476996972824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
+    <SUITE FILE_PATH="coverage/ruby@ch9.coverage" NAME="ch9 Coverage Results" MODIFIED="1477002760880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
+    <SUITE FILE_PATH="coverage/ruby@ch10.coverage" NAME="ch10 Coverage Results" MODIFIED="1477003583911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -36,36 +46,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ch1.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch1.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ch2.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch2.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ch4.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch4.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ch5.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ch5.rb">
           <provider selected="true" editor-type-id="text-editor">
@@ -96,21 +76,71 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ch8.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ch8.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ch8.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="240">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ch3.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch3.rb">
+      <file leaf-file-name="ch9.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ch9.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="195">
+              <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ch10.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ch10.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ch11.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ch11.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ch12.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ch12.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ch13.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ch13.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ch14.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ch14.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -130,6 +160,13 @@
         <option value="$PROJECT_DIR$/ch5.rb" />
         <option value="$PROJECT_DIR$/ch6.rb" />
         <option value="$PROJECT_DIR$/ch7.rb" />
+        <option value="$PROJECT_DIR$/ch8.rb" />
+        <option value="$PROJECT_DIR$/ch9.rb" />
+        <option value="$PROJECT_DIR$/ch10.rb" />
+        <option value="$PROJECT_DIR$/ch11.rb" />
+        <option value="$PROJECT_DIR$/ch12.rb" />
+        <option value="$PROJECT_DIR$/ch13.rb" />
+        <option value="$PROJECT_DIR$/ch14.rb" />
       </list>
     </option>
   </component>
@@ -197,8 +234,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager" selected="Ruby.ch7">
-    <configuration default="false" name="ch2" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+  <component name="RunManager" selected="Ruby.ch14">
+    <configuration default="false" name="ch10" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="ruby" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
       <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
@@ -213,11 +250,11 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/ch2.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/ch10.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
     </configuration>
-    <configuration default="false" name="ch4" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration default="false" name="ch11" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="ruby" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
       <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
@@ -232,11 +269,11 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/ch4.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/ch11.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
     </configuration>
-    <configuration default="false" name="ch5" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration default="false" name="ch12" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="ruby" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
       <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
@@ -251,11 +288,11 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/ch5.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/ch12.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
     </configuration>
-    <configuration default="false" name="ch6" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration default="false" name="ch13" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="ruby" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
       <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
@@ -270,11 +307,11 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/ch6.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/ch13.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
     </configuration>
-    <configuration default="false" name="ch7" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration default="false" name="ch14" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="ruby" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
       <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
@@ -289,7 +326,7 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/ch7.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/ch14.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
     </configuration>
@@ -424,19 +461,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Ruby.ch2" />
-      <item index="1" class="java.lang.String" itemvalue="Ruby.ch4" />
-      <item index="2" class="java.lang.String" itemvalue="Ruby.ch5" />
-      <item index="3" class="java.lang.String" itemvalue="Ruby.ch6" />
-      <item index="4" class="java.lang.String" itemvalue="Ruby.ch7" />
+      <item index="0" class="java.lang.String" itemvalue="Ruby.ch10" />
+      <item index="1" class="java.lang.String" itemvalue="Ruby.ch11" />
+      <item index="2" class="java.lang.String" itemvalue="Ruby.ch12" />
+      <item index="3" class="java.lang.String" itemvalue="Ruby.ch13" />
+      <item index="4" class="java.lang.String" itemvalue="Ruby.ch14" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Ruby.ch7" />
-        <item index="1" class="java.lang.String" itemvalue="Ruby.ch6" />
-        <item index="2" class="java.lang.String" itemvalue="Ruby.ch5" />
-        <item index="3" class="java.lang.String" itemvalue="Ruby.ch4" />
-        <item index="4" class="java.lang.String" itemvalue="Ruby.ch2" />
+        <item index="0" class="java.lang.String" itemvalue="Ruby.ch14" />
+        <item index="1" class="java.lang.String" itemvalue="Ruby.ch13" />
+        <item index="2" class="java.lang.String" itemvalue="Ruby.ch12" />
+        <item index="3" class="java.lang.String" itemvalue="Ruby.ch11" />
+        <item index="4" class="java.lang.String" itemvalue="Ruby.ch10" />
       </list>
     </recent_temporary>
   </component>
@@ -452,12 +489,12 @@
       <updated>1476313678756</updated>
       <workItem from="1476313681949" duration="1466000" />
       <workItem from="1476896683563" duration="3285000" />
-      <workItem from="1476983676640" duration="5460000" />
+      <workItem from="1476983676640" duration="8760000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10211000" />
+    <option name="totallyTimeSpent" value="13511000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1983" height="1031" extended-state="6" />
@@ -612,8 +649,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ch8.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="240">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch9.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch10.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch11.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch12.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch13.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch14.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
           <folding />
         </state>
       </provider>
